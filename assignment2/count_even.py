@@ -2,6 +2,7 @@
 # Count Even Numbers
 
 # Write a function that takes a list and returns how many even numbers it contains.
+
 # Example:
 # count_even([1, 2, 3, 4, 6])
 # Output:3
