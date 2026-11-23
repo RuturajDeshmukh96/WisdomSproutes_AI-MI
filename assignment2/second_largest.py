@@ -2,6 +2,7 @@
 # Write a function that returns the second largest number in a list without using sort().
 
 def second_largest(numbers):
+
     largest = float('-inf')
     second = float('-inf')
 
