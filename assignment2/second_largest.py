@@ -4,6 +4,7 @@
 def second_largest(numbers):
 
     largest = float('-inf')
+
     second = float('-inf')
 
     for num in numbers:
